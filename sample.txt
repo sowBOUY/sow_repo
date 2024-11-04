@@ -1,1 +1,2 @@
-this is sample text, created for testing git 
+this is sample text, created for testing git
+this text is entered by dev1
